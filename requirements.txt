@@ -1,7 +1,7 @@
-streamlit
-pdfplumber
-pytesseract
-pdf2image
-google-generativeai
-pandas
-openpyxl
+streamlit==1.24.0
+pdfplumber==0.9.0
+pytesseract==0.3.10
+pdf2image==1.16.3
+google-generativeai==0.3.1
+pandas==2.0.3
+openpyxl==3.1.2
